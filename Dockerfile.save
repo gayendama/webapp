@@ -1,0 +1,7 @@
+FROM ubuntu:18.04
+MAINTENANT  gayendama (ndamagaye6@gmail.com)
+RUN apt-get update
+RUN apt-get install -y nginx
+EXPOSE 80
+ADD 
+ENTRYPOINT ("/usr/sbin/
